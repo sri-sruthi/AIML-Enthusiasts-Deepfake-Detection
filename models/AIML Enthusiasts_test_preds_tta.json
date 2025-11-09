@@ -1,0 +1,2002 @@
+{
+  "1.png": {
+    "deepfake_score": 0.9998767375946045,
+    "predicted_label": "fake"
+  },
+  "10.png": {
+    "deepfake_score": 0.04184139892458916,
+    "predicted_label": "real"
+  },
+  "100.png": {
+    "deepfake_score": 0.9564719796180725,
+    "predicted_label": "fake"
+  },
+  "101.png": {
+    "deepfake_score": 0.3193461298942566,
+    "predicted_label": "real"
+  },
+  "102.png": {
+    "deepfake_score": 0.104627326130867,
+    "predicted_label": "real"
+  },
+  "103.png": {
+    "deepfake_score": 0.04619361460208893,
+    "predicted_label": "real"
+  },
+  "104.png": {
+    "deepfake_score": 0.8827387094497681,
+    "predicted_label": "fake"
+  },
+  "105.png": {
+    "deepfake_score": 0.264551043510437,
+    "predicted_label": "real"
+  },
+  "106.png": {
+    "deepfake_score": 0.6606873869895935,
+    "predicted_label": "fake"
+  },
+  "107.png": {
+    "deepfake_score": 0.04105739668011665,
+    "predicted_label": "real"
+  },
+  "108.png": {
+    "deepfake_score": 0.9925836324691772,
+    "predicted_label": "fake"
+  },
+  "109.png": {
+    "deepfake_score": 0.9816902279853821,
+    "predicted_label": "fake"
+  },
+  "11.png": {
+    "deepfake_score": 0.846809983253479,
+    "predicted_label": "fake"
+  },
+  "110.png": {
+    "deepfake_score": 0.9986982345581055,
+    "predicted_label": "fake"
+  },
+  "111.png": {
+    "deepfake_score": 0.22331859171390533,
+    "predicted_label": "real"
+  },
+  "112.png": {
+    "deepfake_score": 0.9838083982467651,
+    "predicted_label": "fake"
+  },
+  "113.png": {
+    "deepfake_score": 0.03294961899518967,
+    "predicted_label": "real"
+  },
+  "114.png": {
+    "deepfake_score": 0.9893472194671631,
+    "predicted_label": "fake"
+  },
+  "115.png": {
+    "deepfake_score": 0.8692770004272461,
+    "predicted_label": "fake"
+  },
+  "116.png": {
+    "deepfake_score": 0.9493004083633423,
+    "predicted_label": "fake"
+  },
+  "117.png": {
+    "deepfake_score": 0.7158190011978149,
+    "predicted_label": "fake"
+  },
+  "118.png": {
+    "deepfake_score": 0.053433243185281754,
+    "predicted_label": "real"
+  },
+  "119.png": {
+    "deepfake_score": 0.021349448710680008,
+    "predicted_label": "real"
+  },
+  "12.png": {
+    "deepfake_score": 0.9736494421958923,
+    "predicted_label": "fake"
+  },
+  "120.png": {
+    "deepfake_score": 0.5227606296539307,
+    "predicted_label": "fake"
+  },
+  "121.png": {
+    "deepfake_score": 0.01958204060792923,
+    "predicted_label": "real"
+  },
+  "122.png": {
+    "deepfake_score": 0.9980219602584839,
+    "predicted_label": "fake"
+  },
+  "123.png": {
+    "deepfake_score": 0.9999692440032959,
+    "predicted_label": "fake"
+  },
+  "124.png": {
+    "deepfake_score": 0.9976086616516113,
+    "predicted_label": "fake"
+  },
+  "125.png": {
+    "deepfake_score": 0.16015943884849548,
+    "predicted_label": "real"
+  },
+  "126.png": {
+    "deepfake_score": 0.26757198572158813,
+    "predicted_label": "real"
+  },
+  "127.png": {
+    "deepfake_score": 0.9833956956863403,
+    "predicted_label": "fake"
+  },
+  "128.png": {
+    "deepfake_score": 0.0162341371178627,
+    "predicted_label": "real"
+  },
+  "129.png": {
+    "deepfake_score": 0.008145445957779884,
+    "predicted_label": "real"
+  },
+  "13.png": {
+    "deepfake_score": 0.029107455164194107,
+    "predicted_label": "real"
+  },
+  "130.png": {
+    "deepfake_score": 0.008758862502872944,
+    "predicted_label": "real"
+  },
+  "131.png": {
+    "deepfake_score": 0.9461747407913208,
+    "predicted_label": "fake"
+  },
+  "132.png": {
+    "deepfake_score": 0.9972952604293823,
+    "predicted_label": "fake"
+  },
+  "133.png": {
+    "deepfake_score": 0.016426268965005875,
+    "predicted_label": "real"
+  },
+  "134.png": {
+    "deepfake_score": 0.12233473360538483,
+    "predicted_label": "real"
+  },
+  "135.png": {
+    "deepfake_score": 0.9971437454223633,
+    "predicted_label": "fake"
+  },
+  "136.png": {
+    "deepfake_score": 0.7896863222122192,
+    "predicted_label": "fake"
+  },
+  "137.png": {
+    "deepfake_score": 0.9902249574661255,
+    "predicted_label": "fake"
+  },
+  "138.png": {
+    "deepfake_score": 0.9926745891571045,
+    "predicted_label": "fake"
+  },
+  "139.png": {
+    "deepfake_score": 0.1376207172870636,
+    "predicted_label": "real"
+  },
+  "14.png": {
+    "deepfake_score": 0.48263347148895264,
+    "predicted_label": "real"
+  },
+  "140.png": {
+    "deepfake_score": 0.7484395503997803,
+    "predicted_label": "fake"
+  },
+  "141.png": {
+    "deepfake_score": 0.9960922002792358,
+    "predicted_label": "fake"
+  },
+  "142.png": {
+    "deepfake_score": 0.9649646282196045,
+    "predicted_label": "fake"
+  },
+  "143.png": {
+    "deepfake_score": 0.016380678862333298,
+    "predicted_label": "real"
+  },
+  "144.png": {
+    "deepfake_score": 0.45298969745635986,
+    "predicted_label": "real"
+  },
+  "145.png": {
+    "deepfake_score": 0.015872791409492493,
+    "predicted_label": "real"
+  },
+  "146.png": {
+    "deepfake_score": 0.013255812227725983,
+    "predicted_label": "real"
+  },
+  "147.png": {
+    "deepfake_score": 0.014330025762319565,
+    "predicted_label": "real"
+  },
+  "148.png": {
+    "deepfake_score": 0.9584313631057739,
+    "predicted_label": "fake"
+  },
+  "149.png": {
+    "deepfake_score": 0.24324671924114227,
+    "predicted_label": "real"
+  },
+  "15.png": {
+    "deepfake_score": 0.409643292427063,
+    "predicted_label": "real"
+  },
+  "150.png": {
+    "deepfake_score": 0.2617206573486328,
+    "predicted_label": "real"
+  },
+  "151.png": {
+    "deepfake_score": 0.7132147550582886,
+    "predicted_label": "fake"
+  },
+  "152.png": {
+    "deepfake_score": 0.13686484098434448,
+    "predicted_label": "real"
+  },
+  "153.png": {
+    "deepfake_score": 0.20003053545951843,
+    "predicted_label": "real"
+  },
+  "154.png": {
+    "deepfake_score": 0.9810967445373535,
+    "predicted_label": "fake"
+  },
+  "155.png": {
+    "deepfake_score": 0.015030339360237122,
+    "predicted_label": "real"
+  },
+  "156.png": {
+    "deepfake_score": 0.2860735058784485,
+    "predicted_label": "real"
+  },
+  "157.png": {
+    "deepfake_score": 0.5590035915374756,
+    "predicted_label": "fake"
+  },
+  "158.png": {
+    "deepfake_score": 0.19753429293632507,
+    "predicted_label": "real"
+  },
+  "159.png": {
+    "deepfake_score": 0.9457700848579407,
+    "predicted_label": "fake"
+  },
+  "16.png": {
+    "deepfake_score": 0.3478415906429291,
+    "predicted_label": "real"
+  },
+  "160.png": {
+    "deepfake_score": 0.5402145385742188,
+    "predicted_label": "fake"
+  },
+  "161.png": {
+    "deepfake_score": 0.20032066106796265,
+    "predicted_label": "real"
+  },
+  "162.png": {
+    "deepfake_score": 0.2534578740596771,
+    "predicted_label": "real"
+  },
+  "163.png": {
+    "deepfake_score": 0.9973011612892151,
+    "predicted_label": "fake"
+  },
+  "164.png": {
+    "deepfake_score": 0.986944317817688,
+    "predicted_label": "fake"
+  },
+  "165.png": {
+    "deepfake_score": 0.012291919440031052,
+    "predicted_label": "real"
+  },
+  "166.png": {
+    "deepfake_score": 0.7100051641464233,
+    "predicted_label": "fake"
+  },
+  "167.png": {
+    "deepfake_score": 0.040359169244766235,
+    "predicted_label": "real"
+  },
+  "168.png": {
+    "deepfake_score": 0.04248585179448128,
+    "predicted_label": "real"
+  },
+  "169.png": {
+    "deepfake_score": 0.11216598004102707,
+    "predicted_label": "real"
+  },
+  "17.png": {
+    "deepfake_score": 0.9577076435089111,
+    "predicted_label": "fake"
+  },
+  "170.png": {
+    "deepfake_score": 0.9966470003128052,
+    "predicted_label": "fake"
+  },
+  "171.png": {
+    "deepfake_score": 0.01405499130487442,
+    "predicted_label": "real"
+  },
+  "172.png": {
+    "deepfake_score": 0.16476722061634064,
+    "predicted_label": "real"
+  },
+  "173.png": {
+    "deepfake_score": 0.9678354263305664,
+    "predicted_label": "fake"
+  },
+  "174.png": {
+    "deepfake_score": 0.2912954092025757,
+    "predicted_label": "real"
+  },
+  "175.png": {
+    "deepfake_score": 0.9032536149024963,
+    "predicted_label": "fake"
+  },
+  "176.png": {
+    "deepfake_score": 0.9355696439743042,
+    "predicted_label": "fake"
+  },
+  "177.png": {
+    "deepfake_score": 0.07281945645809174,
+    "predicted_label": "real"
+  },
+  "178.png": {
+    "deepfake_score": 0.9914149045944214,
+    "predicted_label": "fake"
+  },
+  "179.png": {
+    "deepfake_score": 0.8056595921516418,
+    "predicted_label": "fake"
+  },
+  "18.png": {
+    "deepfake_score": 0.9996838569641113,
+    "predicted_label": "fake"
+  },
+  "180.png": {
+    "deepfake_score": 0.9910193681716919,
+    "predicted_label": "fake"
+  },
+  "181.png": {
+    "deepfake_score": 0.060405317693948746,
+    "predicted_label": "real"
+  },
+  "182.png": {
+    "deepfake_score": 0.49010077118873596,
+    "predicted_label": "real"
+  },
+  "183.png": {
+    "deepfake_score": 0.10535360872745514,
+    "predicted_label": "real"
+  },
+  "184.png": {
+    "deepfake_score": 0.9565174579620361,
+    "predicted_label": "fake"
+  },
+  "185.png": {
+    "deepfake_score": 0.9024432301521301,
+    "predicted_label": "fake"
+  },
+  "186.png": {
+    "deepfake_score": 0.9337922930717468,
+    "predicted_label": "fake"
+  },
+  "187.png": {
+    "deepfake_score": 0.40154755115509033,
+    "predicted_label": "real"
+  },
+  "188.png": {
+    "deepfake_score": 0.5385115146636963,
+    "predicted_label": "fake"
+  },
+  "189.png": {
+    "deepfake_score": 0.9844985008239746,
+    "predicted_label": "fake"
+  },
+  "19.png": {
+    "deepfake_score": 0.16319438815116882,
+    "predicted_label": "real"
+  },
+  "190.png": {
+    "deepfake_score": 0.01672397553920746,
+    "predicted_label": "real"
+  },
+  "191.png": {
+    "deepfake_score": 0.0872979611158371,
+    "predicted_label": "real"
+  },
+  "192.png": {
+    "deepfake_score": 0.6587256193161011,
+    "predicted_label": "fake"
+  },
+  "193.png": {
+    "deepfake_score": 0.8947689533233643,
+    "predicted_label": "fake"
+  },
+  "194.png": {
+    "deepfake_score": 0.9994782209396362,
+    "predicted_label": "fake"
+  },
+  "195.png": {
+    "deepfake_score": 0.03503331542015076,
+    "predicted_label": "real"
+  },
+  "196.png": {
+    "deepfake_score": 0.9698495864868164,
+    "predicted_label": "fake"
+  },
+  "197.png": {
+    "deepfake_score": 0.9829540252685547,
+    "predicted_label": "fake"
+  },
+  "198.png": {
+    "deepfake_score": 0.9972030520439148,
+    "predicted_label": "fake"
+  },
+  "199.png": {
+    "deepfake_score": 0.9697459936141968,
+    "predicted_label": "fake"
+  },
+  "2.png": {
+    "deepfake_score": 0.05829450488090515,
+    "predicted_label": "real"
+  },
+  "20.png": {
+    "deepfake_score": 0.44069862365722656,
+    "predicted_label": "real"
+  },
+  "200.png": {
+    "deepfake_score": 0.9572725296020508,
+    "predicted_label": "fake"
+  },
+  "201.png": {
+    "deepfake_score": 0.23139610886573792,
+    "predicted_label": "real"
+  },
+  "202.png": {
+    "deepfake_score": 0.9997236728668213,
+    "predicted_label": "fake"
+  },
+  "203.png": {
+    "deepfake_score": 0.9895250797271729,
+    "predicted_label": "fake"
+  },
+  "204.png": {
+    "deepfake_score": 0.007869714871048927,
+    "predicted_label": "real"
+  },
+  "205.png": {
+    "deepfake_score": 0.11684221029281616,
+    "predicted_label": "real"
+  },
+  "206.png": {
+    "deepfake_score": 0.9771512746810913,
+    "predicted_label": "fake"
+  },
+  "207.png": {
+    "deepfake_score": 0.999563992023468,
+    "predicted_label": "fake"
+  },
+  "208.png": {
+    "deepfake_score": 0.9989278316497803,
+    "predicted_label": "fake"
+  },
+  "209.png": {
+    "deepfake_score": 0.9987547397613525,
+    "predicted_label": "fake"
+  },
+  "21.png": {
+    "deepfake_score": 0.8481700420379639,
+    "predicted_label": "fake"
+  },
+  "210.png": {
+    "deepfake_score": 0.9984048008918762,
+    "predicted_label": "fake"
+  },
+  "211.png": {
+    "deepfake_score": 0.0566391795873642,
+    "predicted_label": "real"
+  },
+  "212.png": {
+    "deepfake_score": 0.1495293229818344,
+    "predicted_label": "real"
+  },
+  "213.png": {
+    "deepfake_score": 0.9322214126586914,
+    "predicted_label": "fake"
+  },
+  "214.png": {
+    "deepfake_score": 0.9994942545890808,
+    "predicted_label": "fake"
+  },
+  "215.png": {
+    "deepfake_score": 0.014980051666498184,
+    "predicted_label": "real"
+  },
+  "216.png": {
+    "deepfake_score": 0.012419449165463448,
+    "predicted_label": "real"
+  },
+  "217.png": {
+    "deepfake_score": 0.05664213374257088,
+    "predicted_label": "real"
+  },
+  "218.png": {
+    "deepfake_score": 0.992254912853241,
+    "predicted_label": "fake"
+  },
+  "219.png": {
+    "deepfake_score": 0.8172371983528137,
+    "predicted_label": "fake"
+  },
+  "22.png": {
+    "deepfake_score": 0.03446062654256821,
+    "predicted_label": "real"
+  },
+  "220.png": {
+    "deepfake_score": 0.9048197269439697,
+    "predicted_label": "fake"
+  },
+  "221.png": {
+    "deepfake_score": 0.1845184862613678,
+    "predicted_label": "real"
+  },
+  "222.png": {
+    "deepfake_score": 0.9136196374893188,
+    "predicted_label": "fake"
+  },
+  "223.png": {
+    "deepfake_score": 0.2441839873790741,
+    "predicted_label": "real"
+  },
+  "224.png": {
+    "deepfake_score": 0.42107513546943665,
+    "predicted_label": "real"
+  },
+  "225.png": {
+    "deepfake_score": 0.0057721734046936035,
+    "predicted_label": "real"
+  },
+  "226.png": {
+    "deepfake_score": 0.9999155402183533,
+    "predicted_label": "fake"
+  },
+  "227.png": {
+    "deepfake_score": 0.7351281642913818,
+    "predicted_label": "fake"
+  },
+  "228.png": {
+    "deepfake_score": 0.9869419932365417,
+    "predicted_label": "fake"
+  },
+  "229.png": {
+    "deepfake_score": 0.04078010842204094,
+    "predicted_label": "real"
+  },
+  "23.png": {
+    "deepfake_score": 0.9531496167182922,
+    "predicted_label": "fake"
+  },
+  "230.png": {
+    "deepfake_score": 0.3322564363479614,
+    "predicted_label": "real"
+  },
+  "231.png": {
+    "deepfake_score": 0.9923612475395203,
+    "predicted_label": "fake"
+  },
+  "232.png": {
+    "deepfake_score": 0.8697059154510498,
+    "predicted_label": "fake"
+  },
+  "233.png": {
+    "deepfake_score": 0.19870740175247192,
+    "predicted_label": "real"
+  },
+  "234.png": {
+    "deepfake_score": 0.5405163168907166,
+    "predicted_label": "fake"
+  },
+  "235.png": {
+    "deepfake_score": 0.830244779586792,
+    "predicted_label": "fake"
+  },
+  "236.png": {
+    "deepfake_score": 0.7719155550003052,
+    "predicted_label": "fake"
+  },
+  "237.png": {
+    "deepfake_score": 0.03362998366355896,
+    "predicted_label": "real"
+  },
+  "238.png": {
+    "deepfake_score": 0.7696993350982666,
+    "predicted_label": "fake"
+  },
+  "239.png": {
+    "deepfake_score": 0.9973188638687134,
+    "predicted_label": "fake"
+  },
+  "24.png": {
+    "deepfake_score": 0.11430923640727997,
+    "predicted_label": "real"
+  },
+  "240.png": {
+    "deepfake_score": 0.19734852015972137,
+    "predicted_label": "real"
+  },
+  "241.png": {
+    "deepfake_score": 0.9071331024169922,
+    "predicted_label": "fake"
+  },
+  "242.png": {
+    "deepfake_score": 0.03134850785136223,
+    "predicted_label": "real"
+  },
+  "243.png": {
+    "deepfake_score": 0.9546661972999573,
+    "predicted_label": "fake"
+  },
+  "244.png": {
+    "deepfake_score": 0.08797045797109604,
+    "predicted_label": "real"
+  },
+  "245.png": {
+    "deepfake_score": 0.10816255211830139,
+    "predicted_label": "real"
+  },
+  "246.png": {
+    "deepfake_score": 0.4513007402420044,
+    "predicted_label": "real"
+  },
+  "247.png": {
+    "deepfake_score": 0.9836558699607849,
+    "predicted_label": "fake"
+  },
+  "248.png": {
+    "deepfake_score": 0.08225169777870178,
+    "predicted_label": "real"
+  },
+  "249.png": {
+    "deepfake_score": 0.8454021215438843,
+    "predicted_label": "fake"
+  },
+  "25.png": {
+    "deepfake_score": 0.9964147806167603,
+    "predicted_label": "fake"
+  },
+  "250.png": {
+    "deepfake_score": 0.6563417911529541,
+    "predicted_label": "fake"
+  },
+  "251.png": {
+    "deepfake_score": 0.20056670904159546,
+    "predicted_label": "real"
+  },
+  "252.png": {
+    "deepfake_score": 0.9735208749771118,
+    "predicted_label": "fake"
+  },
+  "253.png": {
+    "deepfake_score": 0.9951044321060181,
+    "predicted_label": "fake"
+  },
+  "254.png": {
+    "deepfake_score": 0.9942021369934082,
+    "predicted_label": "fake"
+  },
+  "255.png": {
+    "deepfake_score": 0.04794507473707199,
+    "predicted_label": "real"
+  },
+  "256.png": {
+    "deepfake_score": 0.9814600944519043,
+    "predicted_label": "fake"
+  },
+  "257.png": {
+    "deepfake_score": 0.9994425773620605,
+    "predicted_label": "fake"
+  },
+  "258.png": {
+    "deepfake_score": 0.13170237839221954,
+    "predicted_label": "real"
+  },
+  "259.png": {
+    "deepfake_score": 0.010278258472681046,
+    "predicted_label": "real"
+  },
+  "26.png": {
+    "deepfake_score": 0.2306825965642929,
+    "predicted_label": "real"
+  },
+  "260.png": {
+    "deepfake_score": 0.9957777857780457,
+    "predicted_label": "fake"
+  },
+  "261.png": {
+    "deepfake_score": 0.20609953999519348,
+    "predicted_label": "real"
+  },
+  "262.png": {
+    "deepfake_score": 0.006061271298676729,
+    "predicted_label": "real"
+  },
+  "263.png": {
+    "deepfake_score": 0.9691449999809265,
+    "predicted_label": "fake"
+  },
+  "264.png": {
+    "deepfake_score": 0.2652450203895569,
+    "predicted_label": "real"
+  },
+  "265.png": {
+    "deepfake_score": 0.989901602268219,
+    "predicted_label": "fake"
+  },
+  "266.png": {
+    "deepfake_score": 0.9945158958435059,
+    "predicted_label": "fake"
+  },
+  "267.png": {
+    "deepfake_score": 0.025424813851714134,
+    "predicted_label": "real"
+  },
+  "268.png": {
+    "deepfake_score": 0.152287557721138,
+    "predicted_label": "real"
+  },
+  "269.png": {
+    "deepfake_score": 0.9899929165840149,
+    "predicted_label": "fake"
+  },
+  "27.png": {
+    "deepfake_score": 0.014703202992677689,
+    "predicted_label": "real"
+  },
+  "270.png": {
+    "deepfake_score": 0.02778673730790615,
+    "predicted_label": "real"
+  },
+  "271.png": {
+    "deepfake_score": 0.9988102912902832,
+    "predicted_label": "fake"
+  },
+  "272.png": {
+    "deepfake_score": 0.9985549449920654,
+    "predicted_label": "fake"
+  },
+  "273.png": {
+    "deepfake_score": 0.17941972613334656,
+    "predicted_label": "real"
+  },
+  "274.png": {
+    "deepfake_score": 0.9495047330856323,
+    "predicted_label": "fake"
+  },
+  "275.png": {
+    "deepfake_score": 0.6970118880271912,
+    "predicted_label": "fake"
+  },
+  "276.png": {
+    "deepfake_score": 0.9992822408676147,
+    "predicted_label": "fake"
+  },
+  "277.png": {
+    "deepfake_score": 0.057672664523124695,
+    "predicted_label": "real"
+  },
+  "278.png": {
+    "deepfake_score": 0.20697204768657684,
+    "predicted_label": "real"
+  },
+  "279.png": {
+    "deepfake_score": 0.9996837973594666,
+    "predicted_label": "fake"
+  },
+  "28.png": {
+    "deepfake_score": 0.20640677213668823,
+    "predicted_label": "real"
+  },
+  "280.png": {
+    "deepfake_score": 0.12149722874164581,
+    "predicted_label": "real"
+  },
+  "281.png": {
+    "deepfake_score": 0.09085138142108917,
+    "predicted_label": "real"
+  },
+  "282.png": {
+    "deepfake_score": 0.9998779296875,
+    "predicted_label": "fake"
+  },
+  "283.png": {
+    "deepfake_score": 0.04857524484395981,
+    "predicted_label": "real"
+  },
+  "284.png": {
+    "deepfake_score": 0.03224004805088043,
+    "predicted_label": "real"
+  },
+  "285.png": {
+    "deepfake_score": 0.994454026222229,
+    "predicted_label": "fake"
+  },
+  "286.png": {
+    "deepfake_score": 0.6039754748344421,
+    "predicted_label": "fake"
+  },
+  "287.png": {
+    "deepfake_score": 0.31508779525756836,
+    "predicted_label": "real"
+  },
+  "288.png": {
+    "deepfake_score": 0.9954279065132141,
+    "predicted_label": "fake"
+  },
+  "289.png": {
+    "deepfake_score": 0.17846892774105072,
+    "predicted_label": "real"
+  },
+  "29.png": {
+    "deepfake_score": 0.9999459385871887,
+    "predicted_label": "fake"
+  },
+  "290.png": {
+    "deepfake_score": 0.7423279881477356,
+    "predicted_label": "fake"
+  },
+  "291.png": {
+    "deepfake_score": 0.9584423303604126,
+    "predicted_label": "fake"
+  },
+  "292.png": {
+    "deepfake_score": 0.6468203067779541,
+    "predicted_label": "fake"
+  },
+  "293.png": {
+    "deepfake_score": 0.9892368912696838,
+    "predicted_label": "fake"
+  },
+  "294.png": {
+    "deepfake_score": 0.9835529327392578,
+    "predicted_label": "fake"
+  },
+  "295.png": {
+    "deepfake_score": 0.007986406795680523,
+    "predicted_label": "real"
+  },
+  "296.png": {
+    "deepfake_score": 0.9737648963928223,
+    "predicted_label": "fake"
+  },
+  "297.png": {
+    "deepfake_score": 0.3749573528766632,
+    "predicted_label": "real"
+  },
+  "298.png": {
+    "deepfake_score": 0.9991985559463501,
+    "predicted_label": "fake"
+  },
+  "299.png": {
+    "deepfake_score": 0.17412406206130981,
+    "predicted_label": "real"
+  },
+  "3.png": {
+    "deepfake_score": 0.9944164752960205,
+    "predicted_label": "fake"
+  },
+  "30.png": {
+    "deepfake_score": 0.34076812863349915,
+    "predicted_label": "real"
+  },
+  "300.png": {
+    "deepfake_score": 0.993316650390625,
+    "predicted_label": "fake"
+  },
+  "301.png": {
+    "deepfake_score": 0.8304336071014404,
+    "predicted_label": "fake"
+  },
+  "302.png": {
+    "deepfake_score": 0.9983367323875427,
+    "predicted_label": "fake"
+  },
+  "303.png": {
+    "deepfake_score": 0.006250295788049698,
+    "predicted_label": "real"
+  },
+  "304.png": {
+    "deepfake_score": 0.9997809529304504,
+    "predicted_label": "fake"
+  },
+  "305.png": {
+    "deepfake_score": 0.9989179372787476,
+    "predicted_label": "fake"
+  },
+  "306.png": {
+    "deepfake_score": 0.06293308734893799,
+    "predicted_label": "real"
+  },
+  "307.png": {
+    "deepfake_score": 0.07225154340267181,
+    "predicted_label": "real"
+  },
+  "308.png": {
+    "deepfake_score": 0.07292705774307251,
+    "predicted_label": "real"
+  },
+  "309.png": {
+    "deepfake_score": 0.9980824589729309,
+    "predicted_label": "fake"
+  },
+  "31.png": {
+    "deepfake_score": 0.040172237902879715,
+    "predicted_label": "real"
+  },
+  "310.png": {
+    "deepfake_score": 0.2901870608329773,
+    "predicted_label": "real"
+  },
+  "311.png": {
+    "deepfake_score": 0.9391272068023682,
+    "predicted_label": "fake"
+  },
+  "312.png": {
+    "deepfake_score": 0.3033949136734009,
+    "predicted_label": "real"
+  },
+  "313.png": {
+    "deepfake_score": 0.9851895570755005,
+    "predicted_label": "fake"
+  },
+  "314.png": {
+    "deepfake_score": 0.9800547361373901,
+    "predicted_label": "fake"
+  },
+  "315.png": {
+    "deepfake_score": 0.9727599620819092,
+    "predicted_label": "fake"
+  },
+  "316.png": {
+    "deepfake_score": 0.0659106895327568,
+    "predicted_label": "real"
+  },
+  "317.png": {
+    "deepfake_score": 0.7103981971740723,
+    "predicted_label": "fake"
+  },
+  "318.png": {
+    "deepfake_score": 0.08396042883396149,
+    "predicted_label": "real"
+  },
+  "319.png": {
+    "deepfake_score": 0.9278780221939087,
+    "predicted_label": "fake"
+  },
+  "32.png": {
+    "deepfake_score": 0.2712903916835785,
+    "predicted_label": "real"
+  },
+  "320.png": {
+    "deepfake_score": 0.02479940466582775,
+    "predicted_label": "real"
+  },
+  "321.png": {
+    "deepfake_score": 0.04513455182313919,
+    "predicted_label": "real"
+  },
+  "322.png": {
+    "deepfake_score": 0.17251139879226685,
+    "predicted_label": "real"
+  },
+  "323.png": {
+    "deepfake_score": 0.09094016253948212,
+    "predicted_label": "real"
+  },
+  "324.png": {
+    "deepfake_score": 0.9793145060539246,
+    "predicted_label": "fake"
+  },
+  "325.png": {
+    "deepfake_score": 0.9886374473571777,
+    "predicted_label": "fake"
+  },
+  "326.png": {
+    "deepfake_score": 0.7562366127967834,
+    "predicted_label": "fake"
+  },
+  "327.png": {
+    "deepfake_score": 0.9990848302841187,
+    "predicted_label": "fake"
+  },
+  "328.png": {
+    "deepfake_score": 0.034550122916698456,
+    "predicted_label": "real"
+  },
+  "329.png": {
+    "deepfake_score": 0.6678848266601562,
+    "predicted_label": "fake"
+  },
+  "33.png": {
+    "deepfake_score": 0.006549385841935873,
+    "predicted_label": "real"
+  },
+  "330.png": {
+    "deepfake_score": 0.046414121985435486,
+    "predicted_label": "real"
+  },
+  "331.png": {
+    "deepfake_score": 0.011128912679851055,
+    "predicted_label": "real"
+  },
+  "332.png": {
+    "deepfake_score": 0.8291866779327393,
+    "predicted_label": "fake"
+  },
+  "333.png": {
+    "deepfake_score": 0.9984360933303833,
+    "predicted_label": "fake"
+  },
+  "334.png": {
+    "deepfake_score": 0.7911811470985413,
+    "predicted_label": "fake"
+  },
+  "335.png": {
+    "deepfake_score": 0.986931324005127,
+    "predicted_label": "fake"
+  },
+  "336.png": {
+    "deepfake_score": 0.021378032863140106,
+    "predicted_label": "real"
+  },
+  "337.png": {
+    "deepfake_score": 0.6480095386505127,
+    "predicted_label": "fake"
+  },
+  "338.png": {
+    "deepfake_score": 0.986212968826294,
+    "predicted_label": "fake"
+  },
+  "339.png": {
+    "deepfake_score": 0.989656925201416,
+    "predicted_label": "fake"
+  },
+  "34.png": {
+    "deepfake_score": 0.9985314607620239,
+    "predicted_label": "fake"
+  },
+  "340.png": {
+    "deepfake_score": 0.9997847676277161,
+    "predicted_label": "fake"
+  },
+  "341.png": {
+    "deepfake_score": 0.9989822506904602,
+    "predicted_label": "fake"
+  },
+  "342.png": {
+    "deepfake_score": 0.0894496738910675,
+    "predicted_label": "real"
+  },
+  "343.png": {
+    "deepfake_score": 0.907720685005188,
+    "predicted_label": "fake"
+  },
+  "344.png": {
+    "deepfake_score": 0.7672472596168518,
+    "predicted_label": "fake"
+  },
+  "345.png": {
+    "deepfake_score": 0.9992963075637817,
+    "predicted_label": "fake"
+  },
+  "346.png": {
+    "deepfake_score": 0.9934425354003906,
+    "predicted_label": "fake"
+  },
+  "347.png": {
+    "deepfake_score": 0.9992378950119019,
+    "predicted_label": "fake"
+  },
+  "348.png": {
+    "deepfake_score": 0.006413842085748911,
+    "predicted_label": "real"
+  },
+  "349.png": {
+    "deepfake_score": 0.0995766744017601,
+    "predicted_label": "real"
+  },
+  "35.png": {
+    "deepfake_score": 0.037600841373205185,
+    "predicted_label": "real"
+  },
+  "350.png": {
+    "deepfake_score": 0.5146368145942688,
+    "predicted_label": "fake"
+  },
+  "351.png": {
+    "deepfake_score": 0.6950650215148926,
+    "predicted_label": "fake"
+  },
+  "352.png": {
+    "deepfake_score": 0.029614225029945374,
+    "predicted_label": "real"
+  },
+  "353.png": {
+    "deepfake_score": 0.8044790029525757,
+    "predicted_label": "fake"
+  },
+  "354.png": {
+    "deepfake_score": 0.18891847133636475,
+    "predicted_label": "real"
+  },
+  "355.png": {
+    "deepfake_score": 0.9963222742080688,
+    "predicted_label": "fake"
+  },
+  "356.png": {
+    "deepfake_score": 0.6808847188949585,
+    "predicted_label": "fake"
+  },
+  "357.png": {
+    "deepfake_score": 0.5587937831878662,
+    "predicted_label": "fake"
+  },
+  "358.png": {
+    "deepfake_score": 0.03855316713452339,
+    "predicted_label": "real"
+  },
+  "359.png": {
+    "deepfake_score": 0.05059916526079178,
+    "predicted_label": "real"
+  },
+  "36.png": {
+    "deepfake_score": 0.07356176525354385,
+    "predicted_label": "real"
+  },
+  "360.png": {
+    "deepfake_score": 0.9993701577186584,
+    "predicted_label": "fake"
+  },
+  "361.png": {
+    "deepfake_score": 0.010667920112609863,
+    "predicted_label": "real"
+  },
+  "362.png": {
+    "deepfake_score": 0.33524930477142334,
+    "predicted_label": "real"
+  },
+  "363.png": {
+    "deepfake_score": 0.9228092432022095,
+    "predicted_label": "fake"
+  },
+  "364.png": {
+    "deepfake_score": 0.8677238821983337,
+    "predicted_label": "fake"
+  },
+  "365.png": {
+    "deepfake_score": 0.5370916128158569,
+    "predicted_label": "fake"
+  },
+  "366.png": {
+    "deepfake_score": 0.019158001989126205,
+    "predicted_label": "real"
+  },
+  "367.png": {
+    "deepfake_score": 0.04476741701364517,
+    "predicted_label": "real"
+  },
+  "368.png": {
+    "deepfake_score": 0.9415711164474487,
+    "predicted_label": "fake"
+  },
+  "369.png": {
+    "deepfake_score": 0.6407678127288818,
+    "predicted_label": "fake"
+  },
+  "37.png": {
+    "deepfake_score": 0.02502376213669777,
+    "predicted_label": "real"
+  },
+  "370.png": {
+    "deepfake_score": 0.9915640354156494,
+    "predicted_label": "fake"
+  },
+  "371.png": {
+    "deepfake_score": 0.5394717454910278,
+    "predicted_label": "fake"
+  },
+  "372.png": {
+    "deepfake_score": 0.43829047679901123,
+    "predicted_label": "real"
+  },
+  "373.png": {
+    "deepfake_score": 0.9720689058303833,
+    "predicted_label": "fake"
+  },
+  "374.png": {
+    "deepfake_score": 0.98174649477005,
+    "predicted_label": "fake"
+  },
+  "375.png": {
+    "deepfake_score": 0.07088294625282288,
+    "predicted_label": "real"
+  },
+  "376.png": {
+    "deepfake_score": 0.999828040599823,
+    "predicted_label": "fake"
+  },
+  "377.png": {
+    "deepfake_score": 0.05895763263106346,
+    "predicted_label": "real"
+  },
+  "378.png": {
+    "deepfake_score": 0.06349316984415054,
+    "predicted_label": "real"
+  },
+  "379.png": {
+    "deepfake_score": 0.9784293174743652,
+    "predicted_label": "fake"
+  },
+  "38.png": {
+    "deepfake_score": 0.9945192337036133,
+    "predicted_label": "fake"
+  },
+  "380.png": {
+    "deepfake_score": 0.031055402010679245,
+    "predicted_label": "real"
+  },
+  "381.png": {
+    "deepfake_score": 0.38649240136146545,
+    "predicted_label": "real"
+  },
+  "382.png": {
+    "deepfake_score": 0.05421341210603714,
+    "predicted_label": "real"
+  },
+  "383.png": {
+    "deepfake_score": 0.020578701049089432,
+    "predicted_label": "real"
+  },
+  "384.png": {
+    "deepfake_score": 0.9895341992378235,
+    "predicted_label": "fake"
+  },
+  "385.png": {
+    "deepfake_score": 0.41548195481300354,
+    "predicted_label": "real"
+  },
+  "386.png": {
+    "deepfake_score": 0.5146424770355225,
+    "predicted_label": "fake"
+  },
+  "387.png": {
+    "deepfake_score": 0.9961472749710083,
+    "predicted_label": "fake"
+  },
+  "388.png": {
+    "deepfake_score": 0.14808186888694763,
+    "predicted_label": "real"
+  },
+  "389.png": {
+    "deepfake_score": 0.27336084842681885,
+    "predicted_label": "real"
+  },
+  "39.png": {
+    "deepfake_score": 0.9841424226760864,
+    "predicted_label": "fake"
+  },
+  "390.png": {
+    "deepfake_score": 0.9818023443222046,
+    "predicted_label": "fake"
+  },
+  "391.png": {
+    "deepfake_score": 0.4065576195716858,
+    "predicted_label": "real"
+  },
+  "392.png": {
+    "deepfake_score": 0.18473395705223083,
+    "predicted_label": "real"
+  },
+  "393.png": {
+    "deepfake_score": 0.9941668510437012,
+    "predicted_label": "fake"
+  },
+  "394.png": {
+    "deepfake_score": 0.8187812566757202,
+    "predicted_label": "fake"
+  },
+  "395.png": {
+    "deepfake_score": 0.10215674340724945,
+    "predicted_label": "real"
+  },
+  "396.png": {
+    "deepfake_score": 0.5925136208534241,
+    "predicted_label": "fake"
+  },
+  "397.png": {
+    "deepfake_score": 0.546926736831665,
+    "predicted_label": "fake"
+  },
+  "398.png": {
+    "deepfake_score": 0.5466012358665466,
+    "predicted_label": "fake"
+  },
+  "399.png": {
+    "deepfake_score": 0.04318586736917496,
+    "predicted_label": "real"
+  },
+  "4.png": {
+    "deepfake_score": 0.2579498291015625,
+    "predicted_label": "real"
+  },
+  "40.png": {
+    "deepfake_score": 0.27312570810317993,
+    "predicted_label": "real"
+  },
+  "400.png": {
+    "deepfake_score": 0.27482134103775024,
+    "predicted_label": "real"
+  },
+  "401.png": {
+    "deepfake_score": 0.15216754376888275,
+    "predicted_label": "real"
+  },
+  "402.png": {
+    "deepfake_score": 0.3535785973072052,
+    "predicted_label": "real"
+  },
+  "403.png": {
+    "deepfake_score": 0.09652163088321686,
+    "predicted_label": "real"
+  },
+  "404.png": {
+    "deepfake_score": 0.7400599718093872,
+    "predicted_label": "fake"
+  },
+  "405.png": {
+    "deepfake_score": 0.05261208489537239,
+    "predicted_label": "real"
+  },
+  "406.png": {
+    "deepfake_score": 0.06780782341957092,
+    "predicted_label": "real"
+  },
+  "407.png": {
+    "deepfake_score": 0.9919569492340088,
+    "predicted_label": "fake"
+  },
+  "408.png": {
+    "deepfake_score": 0.05730922892689705,
+    "predicted_label": "real"
+  },
+  "409.png": {
+    "deepfake_score": 0.22409959137439728,
+    "predicted_label": "real"
+  },
+  "41.png": {
+    "deepfake_score": 0.9747364521026611,
+    "predicted_label": "fake"
+  },
+  "410.png": {
+    "deepfake_score": 0.3043753206729889,
+    "predicted_label": "real"
+  },
+  "411.png": {
+    "deepfake_score": 0.973629355430603,
+    "predicted_label": "fake"
+  },
+  "412.png": {
+    "deepfake_score": 0.9268641471862793,
+    "predicted_label": "fake"
+  },
+  "413.png": {
+    "deepfake_score": 0.11629817634820938,
+    "predicted_label": "real"
+  },
+  "414.png": {
+    "deepfake_score": 0.012004733085632324,
+    "predicted_label": "real"
+  },
+  "415.png": {
+    "deepfake_score": 0.9472585916519165,
+    "predicted_label": "fake"
+  },
+  "416.png": {
+    "deepfake_score": 0.9774519801139832,
+    "predicted_label": "fake"
+  },
+  "417.png": {
+    "deepfake_score": 0.15217626094818115,
+    "predicted_label": "real"
+  },
+  "418.png": {
+    "deepfake_score": 0.999335765838623,
+    "predicted_label": "fake"
+  },
+  "419.png": {
+    "deepfake_score": 0.3345175087451935,
+    "predicted_label": "real"
+  },
+  "42.png": {
+    "deepfake_score": 0.047690555453300476,
+    "predicted_label": "real"
+  },
+  "420.png": {
+    "deepfake_score": 0.031520407646894455,
+    "predicted_label": "real"
+  },
+  "421.png": {
+    "deepfake_score": 0.03208180516958237,
+    "predicted_label": "real"
+  },
+  "422.png": {
+    "deepfake_score": 0.09979016333818436,
+    "predicted_label": "real"
+  },
+  "423.png": {
+    "deepfake_score": 0.9848697185516357,
+    "predicted_label": "fake"
+  },
+  "424.png": {
+    "deepfake_score": 0.05997411906719208,
+    "predicted_label": "real"
+  },
+  "425.png": {
+    "deepfake_score": 0.9656825065612793,
+    "predicted_label": "fake"
+  },
+  "426.png": {
+    "deepfake_score": 0.9896694421768188,
+    "predicted_label": "fake"
+  },
+  "427.png": {
+    "deepfake_score": 0.23363938927650452,
+    "predicted_label": "real"
+  },
+  "428.png": {
+    "deepfake_score": 0.6793347597122192,
+    "predicted_label": "fake"
+  },
+  "429.png": {
+    "deepfake_score": 0.9997809529304504,
+    "predicted_label": "fake"
+  },
+  "43.png": {
+    "deepfake_score": 0.024044258520007133,
+    "predicted_label": "real"
+  },
+  "430.png": {
+    "deepfake_score": 0.9972504377365112,
+    "predicted_label": "fake"
+  },
+  "431.png": {
+    "deepfake_score": 0.9911599159240723,
+    "predicted_label": "fake"
+  },
+  "432.png": {
+    "deepfake_score": 0.38897910714149475,
+    "predicted_label": "real"
+  },
+  "433.png": {
+    "deepfake_score": 0.11867428570985794,
+    "predicted_label": "real"
+  },
+  "434.png": {
+    "deepfake_score": 0.18654832243919373,
+    "predicted_label": "real"
+  },
+  "435.png": {
+    "deepfake_score": 0.9973748922348022,
+    "predicted_label": "fake"
+  },
+  "436.png": {
+    "deepfake_score": 0.47184035181999207,
+    "predicted_label": "real"
+  },
+  "437.png": {
+    "deepfake_score": 0.9855453968048096,
+    "predicted_label": "fake"
+  },
+  "438.png": {
+    "deepfake_score": 0.9914131164550781,
+    "predicted_label": "fake"
+  },
+  "439.png": {
+    "deepfake_score": 0.196526437997818,
+    "predicted_label": "real"
+  },
+  "44.png": {
+    "deepfake_score": 0.007728879805654287,
+    "predicted_label": "real"
+  },
+  "440.png": {
+    "deepfake_score": 0.9966139793395996,
+    "predicted_label": "fake"
+  },
+  "441.png": {
+    "deepfake_score": 0.9996476173400879,
+    "predicted_label": "fake"
+  },
+  "442.png": {
+    "deepfake_score": 0.9071929454803467,
+    "predicted_label": "fake"
+  },
+  "443.png": {
+    "deepfake_score": 0.2010740339756012,
+    "predicted_label": "real"
+  },
+  "444.png": {
+    "deepfake_score": 0.9947769641876221,
+    "predicted_label": "fake"
+  },
+  "445.png": {
+    "deepfake_score": 0.036211028695106506,
+    "predicted_label": "real"
+  },
+  "446.png": {
+    "deepfake_score": 0.9893012642860413,
+    "predicted_label": "fake"
+  },
+  "447.png": {
+    "deepfake_score": 0.33503496646881104,
+    "predicted_label": "real"
+  },
+  "448.png": {
+    "deepfake_score": 0.04512189328670502,
+    "predicted_label": "real"
+  },
+  "449.png": {
+    "deepfake_score": 0.12073113024234772,
+    "predicted_label": "real"
+  },
+  "45.png": {
+    "deepfake_score": 0.1197720319032669,
+    "predicted_label": "real"
+  },
+  "450.png": {
+    "deepfake_score": 0.9997390508651733,
+    "predicted_label": "fake"
+  },
+  "451.png": {
+    "deepfake_score": 0.11856953054666519,
+    "predicted_label": "real"
+  },
+  "452.png": {
+    "deepfake_score": 0.013383235782384872,
+    "predicted_label": "real"
+  },
+  "453.png": {
+    "deepfake_score": 0.8477947115898132,
+    "predicted_label": "fake"
+  },
+  "454.png": {
+    "deepfake_score": 0.7462037801742554,
+    "predicted_label": "fake"
+  },
+  "455.png": {
+    "deepfake_score": 0.44120344519615173,
+    "predicted_label": "real"
+  },
+  "456.png": {
+    "deepfake_score": 0.07438827306032181,
+    "predicted_label": "real"
+  },
+  "457.png": {
+    "deepfake_score": 0.9978514909744263,
+    "predicted_label": "fake"
+  },
+  "458.png": {
+    "deepfake_score": 0.9625052809715271,
+    "predicted_label": "fake"
+  },
+  "459.png": {
+    "deepfake_score": 0.7285716533660889,
+    "predicted_label": "fake"
+  },
+  "46.png": {
+    "deepfake_score": 0.02340102195739746,
+    "predicted_label": "real"
+  },
+  "460.png": {
+    "deepfake_score": 0.12054973095655441,
+    "predicted_label": "real"
+  },
+  "461.png": {
+    "deepfake_score": 0.2480265498161316,
+    "predicted_label": "real"
+  },
+  "462.png": {
+    "deepfake_score": 0.3683614730834961,
+    "predicted_label": "real"
+  },
+  "463.png": {
+    "deepfake_score": 0.0058574494905769825,
+    "predicted_label": "real"
+  },
+  "464.png": {
+    "deepfake_score": 0.17778727412223816,
+    "predicted_label": "real"
+  },
+  "465.png": {
+    "deepfake_score": 0.5930318832397461,
+    "predicted_label": "fake"
+  },
+  "466.png": {
+    "deepfake_score": 0.15679538249969482,
+    "predicted_label": "real"
+  },
+  "467.png": {
+    "deepfake_score": 0.0330527238547802,
+    "predicted_label": "real"
+  },
+  "468.png": {
+    "deepfake_score": 0.4114465117454529,
+    "predicted_label": "real"
+  },
+  "469.png": {
+    "deepfake_score": 0.29808807373046875,
+    "predicted_label": "real"
+  },
+  "47.png": {
+    "deepfake_score": 0.4212157726287842,
+    "predicted_label": "real"
+  },
+  "470.png": {
+    "deepfake_score": 0.9952864050865173,
+    "predicted_label": "fake"
+  },
+  "471.png": {
+    "deepfake_score": 0.1499457061290741,
+    "predicted_label": "real"
+  },
+  "472.png": {
+    "deepfake_score": 0.1762157678604126,
+    "predicted_label": "real"
+  },
+  "473.png": {
+    "deepfake_score": 0.1406683474779129,
+    "predicted_label": "real"
+  },
+  "474.png": {
+    "deepfake_score": 0.999547004699707,
+    "predicted_label": "fake"
+  },
+  "475.png": {
+    "deepfake_score": 0.9849902391433716,
+    "predicted_label": "fake"
+  },
+  "476.png": {
+    "deepfake_score": 0.19151529669761658,
+    "predicted_label": "real"
+  },
+  "477.png": {
+    "deepfake_score": 0.776229202747345,
+    "predicted_label": "fake"
+  },
+  "478.png": {
+    "deepfake_score": 0.20012059807777405,
+    "predicted_label": "real"
+  },
+  "479.png": {
+    "deepfake_score": 0.022529924288392067,
+    "predicted_label": "real"
+  },
+  "48.png": {
+    "deepfake_score": 0.9708822965621948,
+    "predicted_label": "fake"
+  },
+  "480.png": {
+    "deepfake_score": 0.8636866807937622,
+    "predicted_label": "fake"
+  },
+  "481.png": {
+    "deepfake_score": 0.9844624996185303,
+    "predicted_label": "fake"
+  },
+  "482.png": {
+    "deepfake_score": 0.8800822496414185,
+    "predicted_label": "fake"
+  },
+  "483.png": {
+    "deepfake_score": 0.9850802421569824,
+    "predicted_label": "fake"
+  },
+  "484.png": {
+    "deepfake_score": 0.7247446775436401,
+    "predicted_label": "fake"
+  },
+  "485.png": {
+    "deepfake_score": 0.02406919375061989,
+    "predicted_label": "real"
+  },
+  "486.png": {
+    "deepfake_score": 0.01252198126167059,
+    "predicted_label": "real"
+  },
+  "487.png": {
+    "deepfake_score": 0.8539095520973206,
+    "predicted_label": "fake"
+  },
+  "488.png": {
+    "deepfake_score": 0.08735302835702896,
+    "predicted_label": "real"
+  },
+  "489.png": {
+    "deepfake_score": 0.027536053210496902,
+    "predicted_label": "real"
+  },
+  "49.png": {
+    "deepfake_score": 0.02694491297006607,
+    "predicted_label": "real"
+  },
+  "490.png": {
+    "deepfake_score": 0.013933474197983742,
+    "predicted_label": "real"
+  },
+  "491.png": {
+    "deepfake_score": 0.19856199622154236,
+    "predicted_label": "real"
+  },
+  "492.png": {
+    "deepfake_score": 0.1543177366256714,
+    "predicted_label": "real"
+  },
+  "493.png": {
+    "deepfake_score": 0.9996940493583679,
+    "predicted_label": "fake"
+  },
+  "494.png": {
+    "deepfake_score": 0.31031885743141174,
+    "predicted_label": "real"
+  },
+  "495.png": {
+    "deepfake_score": 0.9891868233680725,
+    "predicted_label": "fake"
+  },
+  "496.png": {
+    "deepfake_score": 0.011611700057983398,
+    "predicted_label": "real"
+  },
+  "497.png": {
+    "deepfake_score": 0.9259673357009888,
+    "predicted_label": "fake"
+  },
+  "498.png": {
+    "deepfake_score": 0.08410950005054474,
+    "predicted_label": "real"
+  },
+  "499.png": {
+    "deepfake_score": 0.03001539222896099,
+    "predicted_label": "real"
+  },
+  "5.png": {
+    "deepfake_score": 0.9845609664916992,
+    "predicted_label": "fake"
+  },
+  "50.png": {
+    "deepfake_score": 0.9537976980209351,
+    "predicted_label": "fake"
+  },
+  "500.png": {
+    "deepfake_score": 0.014173842966556549,
+    "predicted_label": "real"
+  },
+  "51.png": {
+    "deepfake_score": 0.9969431161880493,
+    "predicted_label": "fake"
+  },
+  "52.png": {
+    "deepfake_score": 0.9969631433486938,
+    "predicted_label": "fake"
+  },
+  "53.png": {
+    "deepfake_score": 0.9511451721191406,
+    "predicted_label": "fake"
+  },
+  "54.png": {
+    "deepfake_score": 0.08163490891456604,
+    "predicted_label": "real"
+  },
+  "55.png": {
+    "deepfake_score": 0.16347134113311768,
+    "predicted_label": "real"
+  },
+  "56.png": {
+    "deepfake_score": 0.9807946681976318,
+    "predicted_label": "fake"
+  },
+  "57.png": {
+    "deepfake_score": 0.02096319943666458,
+    "predicted_label": "real"
+  },
+  "58.png": {
+    "deepfake_score": 0.09759815037250519,
+    "predicted_label": "real"
+  },
+  "59.png": {
+    "deepfake_score": 0.015702269971370697,
+    "predicted_label": "real"
+  },
+  "6.png": {
+    "deepfake_score": 0.9997553825378418,
+    "predicted_label": "fake"
+  },
+  "60.png": {
+    "deepfake_score": 0.027676282450556755,
+    "predicted_label": "real"
+  },
+  "61.png": {
+    "deepfake_score": 0.6600783467292786,
+    "predicted_label": "fake"
+  },
+  "62.png": {
+    "deepfake_score": 0.9958906173706055,
+    "predicted_label": "fake"
+  },
+  "63.png": {
+    "deepfake_score": 0.9936946630477905,
+    "predicted_label": "fake"
+  },
+  "64.png": {
+    "deepfake_score": 0.20859867334365845,
+    "predicted_label": "real"
+  },
+  "65.png": {
+    "deepfake_score": 0.792666494846344,
+    "predicted_label": "fake"
+  },
+  "66.png": {
+    "deepfake_score": 0.6259046792984009,
+    "predicted_label": "fake"
+  },
+  "67.png": {
+    "deepfake_score": 0.9939876198768616,
+    "predicted_label": "fake"
+  },
+  "68.png": {
+    "deepfake_score": 0.04122038185596466,
+    "predicted_label": "real"
+  },
+  "69.png": {
+    "deepfake_score": 0.8532050848007202,
+    "predicted_label": "fake"
+  },
+  "7.png": {
+    "deepfake_score": 0.6655687689781189,
+    "predicted_label": "fake"
+  },
+  "70.png": {
+    "deepfake_score": 0.9918554425239563,
+    "predicted_label": "fake"
+  },
+  "71.png": {
+    "deepfake_score": 0.3331301510334015,
+    "predicted_label": "real"
+  },
+  "72.png": {
+    "deepfake_score": 0.9970102310180664,
+    "predicted_label": "fake"
+  },
+  "73.png": {
+    "deepfake_score": 0.10845690220594406,
+    "predicted_label": "real"
+  },
+  "74.png": {
+    "deepfake_score": 0.09605420380830765,
+    "predicted_label": "real"
+  },
+  "75.png": {
+    "deepfake_score": 0.07426747679710388,
+    "predicted_label": "real"
+  },
+  "76.png": {
+    "deepfake_score": 0.2413613498210907,
+    "predicted_label": "real"
+  },
+  "77.png": {
+    "deepfake_score": 0.39841312170028687,
+    "predicted_label": "real"
+  },
+  "78.png": {
+    "deepfake_score": 0.9249502420425415,
+    "predicted_label": "fake"
+  },
+  "79.png": {
+    "deepfake_score": 0.9972131252288818,
+    "predicted_label": "fake"
+  },
+  "8.png": {
+    "deepfake_score": 0.9979358911514282,
+    "predicted_label": "fake"
+  },
+  "80.png": {
+    "deepfake_score": 0.9841966032981873,
+    "predicted_label": "fake"
+  },
+  "81.png": {
+    "deepfake_score": 0.013888346031308174,
+    "predicted_label": "real"
+  },
+  "82.png": {
+    "deepfake_score": 0.07570770382881165,
+    "predicted_label": "real"
+  },
+  "83.png": {
+    "deepfake_score": 0.31131669878959656,
+    "predicted_label": "real"
+  },
+  "84.png": {
+    "deepfake_score": 0.9114388823509216,
+    "predicted_label": "fake"
+  },
+  "85.png": {
+    "deepfake_score": 0.030307425186038017,
+    "predicted_label": "real"
+  },
+  "86.png": {
+    "deepfake_score": 0.08645639568567276,
+    "predicted_label": "real"
+  },
+  "87.png": {
+    "deepfake_score": 0.24205753207206726,
+    "predicted_label": "real"
+  },
+  "88.png": {
+    "deepfake_score": 0.021280702203512192,
+    "predicted_label": "real"
+  },
+  "89.png": {
+    "deepfake_score": 0.23786863684654236,
+    "predicted_label": "real"
+  },
+  "9.png": {
+    "deepfake_score": 0.03601306676864624,
+    "predicted_label": "real"
+  },
+  "90.png": {
+    "deepfake_score": 0.9321133494377136,
+    "predicted_label": "fake"
+  },
+  "91.png": {
+    "deepfake_score": 0.9991932511329651,
+    "predicted_label": "fake"
+  },
+  "92.png": {
+    "deepfake_score": 0.9752587080001831,
+    "predicted_label": "fake"
+  },
+  "93.png": {
+    "deepfake_score": 0.27163243293762207,
+    "predicted_label": "real"
+  },
+  "94.png": {
+    "deepfake_score": 0.9905682802200317,
+    "predicted_label": "fake"
+  },
+  "95.png": {
+    "deepfake_score": 0.010806513950228691,
+    "predicted_label": "real"
+  },
+  "96.png": {
+    "deepfake_score": 0.999350368976593,
+    "predicted_label": "fake"
+  },
+  "97.png": {
+    "deepfake_score": 0.8646906018257141,
+    "predicted_label": "fake"
+  },
+  "98.png": {
+    "deepfake_score": 0.13907139003276825,
+    "predicted_label": "real"
+  },
+  "99.png": {
+    "deepfake_score": 0.7560437321662903,
+    "predicted_label": "fake"
+  }
+}
