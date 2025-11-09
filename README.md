@@ -10,13 +10,3 @@
 2. Install the required dependencies.
 
 pip install -r requirements.txt
-
-3. Ensure the dataset structure follows:
-
-/DATASET/
-  ├── train/
-  ├── test/
-  ├── training.json
-
-
-4. Place the dataset inside your Google Drive and update the paths inside the notebook if required.
