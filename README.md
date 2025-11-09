@@ -113,7 +113,7 @@ We applied a **Logistic Regression calibration** on top of CNN and LGBM predicti
 
 **Result:**
 - Calibrated AUC = **0.964**  
-- Output: `AIML_Enthusiasts_final_submission_calibrated.json`
+- Output: `AIML_Enthusiasts_prediction.json`
 
 ---
 
